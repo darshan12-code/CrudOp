@@ -1,4 +1,5 @@
-# Crud Operation
+# Student Registration Application
+## Crud Operation
 
 <img src="https://github.com/darshan12-code/CrudOp/blob/main/CrudOP/StudentForm1.png">
 <img src="https://github.com/darshan12-code/CrudOp/blob/main/CrudOP/StudentForm2.png">
